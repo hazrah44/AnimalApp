@@ -1,1 +1,1 @@
-# AnimalApp
+# Assignment 2 - AnimalApp
